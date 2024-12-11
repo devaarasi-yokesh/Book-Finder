@@ -1,0 +1,13 @@
+#root {
+  max-width: 2080px;
+  background-color: antiquewhite;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 200%;
+  height: 950px;
+}
+
+.changeColor{
+  background-color: orangered;
+}
